@@ -1,9 +1,7 @@
 # MetroFlood
 서울시 동작구 지하철 침수 위험도를 분석함
 
-
-포스터:
-https://github.com/jinuew/MetroFlood/blob/c11aa442ad63587f354d807757af17d6e6709b32/MetroFloodPoster.pdf
+![download](https://github.com/jinuew/MetroFlood/assets/141210846/90490134-8ecc-4ce1-8724-771af704e1e2)
 
 
 데이터 구성
